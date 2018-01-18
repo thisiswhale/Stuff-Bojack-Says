@@ -1,16 +1,18 @@
 body{
 font-size: 20px;
 font-family: "Comic Sans MS";
+background-image: url("https://vignette.wikia.nocookie.net/bojackhorseman/images/4/4b/Hollywoo-ottoman-bojack.jpg/revision/latest?cb=20161031213504");
+background-size:100%;
+background-repeat: no-repeat;;
 }
-
+#speech-bubble{
+  height: 50%;
+  width: 50%;
+}
+#quoteBox{
+  z-index: 1;
+  position: relative;
+}
 #quoteAutomator{
-
-}
-
-#ButtonDiv{
-
-}
-
-#media{
 
 }
